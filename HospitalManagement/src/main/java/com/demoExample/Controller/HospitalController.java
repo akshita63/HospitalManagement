@@ -67,7 +67,7 @@ public class HospitalController {
 	
 	
 	
-	
+//haven't added service layer, but I will do it another projects.	
 	
 	
 	
